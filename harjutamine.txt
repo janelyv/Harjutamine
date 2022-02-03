@@ -1,0 +1,2 @@
+GitHub on koodimajutusplatvorm versioonikontrolliks ja koostööks. See võimaldab kõikjal ühiselt projektide kallal koostööd teha. 
+Githubi kasutavad mitmed riikliku taustaga asutused üle maailma, Eestis nt e-gov, @kinnisvara, open-eID. 
