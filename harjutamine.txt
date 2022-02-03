@@ -1,5 +1,4 @@
 GitHub on koodimajutusplatvorm versioonikontrolliks ja koostööks. See võimaldab kõikjal ühiselt projektide kallal koostööd teha. 
 Githubi kasutavad mitmed riikliku taustaga asutused üle maailma, Eestis nt e-gov, @kinnisvara, open-eID. 
 
-Kuidas mina saaksin seda kasutada?
-Dokumentatsioon, hoiustada ja avalikustada enda projekte ning misiganes tulevikutöö toob, Github on ideaalne koht jagada ning olla ühenduses koostöö partneritega. 
+
