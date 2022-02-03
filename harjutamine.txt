@@ -1,4 +1,7 @@
 GitHub on koodimajutusplatvorm versioonikontrolliks ja koostööks. See võimaldab kõikjal ühiselt projektide kallal koostööd teha. 
 Githubi kasutavad mitmed riikliku taustaga asutused üle maailma, Eestis nt e-gov, @kinnisvara, open-eID. 
 
+Kuidas mina saaksin seda kasutada?
+Dokumentatsioon, hoiustada ja avalikustada enda projekte ning misiganes tulevikutöö toob, Github on ideaalne koht jagada ning olla ühenduses koostöö partneritega. 
 
+GitHub on Microsofti tütarfirma alates aastast 2018, mil Microsoft ostis GitHubi 7,5 miljardi dollari eest. GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007. GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris. GitHub on kirjutatud Rubys ning baseerub Ruby on Railsi raamistikul. GitHubi teenus on suurelt jaolt tasuta, kuid GitHub pakub tasu eest teenust IT-professionaalidele, töörühmadele ja ettevõtetele
